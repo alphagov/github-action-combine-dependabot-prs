@@ -1,0 +1,24 @@
+{
+  "name": "github-action-combine-dependabot-prs",
+  "version": "1.0.0",
+  "description": "A GitHub action that combines Dependabot pull requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphagov/github-action-combine-dependabot-prs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alphagov/github-action-combine-dependabot-prs/issues"
+  },
+  "homepage": "https://github.com/alphagov/github-action-combine-dependabot-prs#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1"
+  }
+}
